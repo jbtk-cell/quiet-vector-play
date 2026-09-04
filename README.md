@@ -6,4 +6,4 @@ This repository holds **only the built game**. It is generated — every commit 
 the output of `npm run deploy:free` in the (private) source repo, so nothing should be
 edited in place; the change belongs upstream.
 
-Built from source commit `97ed1a2`.
+Built from source commit `25402c4`.
